@@ -169,7 +169,11 @@
 				"C:/Unreal project/RealEstateVR/Content/Exteriar/Worn_Old_Wood_Planks.uasset",
 				"C:/Unreal project/RealEstateVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Unreal project/RealEstateVR/Content/Exteriar/black_marble2_Metallic.uasset",
-				"C:/Unreal project/RealEstateVR/Content/Exteriar/woodparquet_83_Metallic.uasset"
+				"C:/Unreal project/RealEstateVR/Content/Exteriar/woodparquet_83_Metallic.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/VR_Character.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/GrippableInterface.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/BP_Grab_actor.uasset",
+				"C:/Unreal project/RealEstateVR/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
 		}
 	]
