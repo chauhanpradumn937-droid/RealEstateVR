@@ -175,10 +175,13 @@
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/BP_Grab_actor.uasset",
 				"C:/Unreal project/RealEstateVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Unreal project/RealEstateVR/Content/VRTemplate/Blueprints/VRGameMode.uasset",
-				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/BP_SplaceScreen.uasset",
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/WhatsApp_Image_2025-09-06_at_8_54_45_PM__1_.uasset",
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/WB_SplaceScreen.uasset",
-				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/WB_button.uasset"
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/WB_button.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/IA_Move_X.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/IA_Move_Y.uasset",
+				"C:/Unreal project/RealEstateVR/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/BP_SplaceScreen.uasset"
 			]
 		}
 	]
