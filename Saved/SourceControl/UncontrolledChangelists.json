@@ -181,6 +181,8 @@
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/IA_Move_X.uasset",
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/IA_Move_Y.uasset",
 				"C:/Unreal project/RealEstateVR/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Unreal project/RealEstateVR/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/IA_TeleportToggle.uasset",
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/BP_SplaceScreen.uasset"
 			]
 		}
