@@ -191,6 +191,13 @@
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/WBP_Compass.uasset",
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/BP_DirectionActor.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EngineSky/BP_Sky_Sphere.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/WBP_Toggel.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/WB_dayNightSlider.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/Slider.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/Slider_handle.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/Slider__1_.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/BP_DIrectionalLight.uasset",
+				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/testactor.uasset",
 				"C:/Unreal project/RealEstateVR/Content/My_blueprint/UI/BP_SplaceScreen.uasset"
 			]
 		}
